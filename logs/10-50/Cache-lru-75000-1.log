@@ -1,0 +1,11 @@
+25793 : Number of hit
+     20 http://172.17.0.2:3000/scale1000?subject=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Finstances%2FProductFeature2447&predicate=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Fvocabulary%2FproductPropertyNumeric1
+     21 http://172.17.0.2:3000/scale1000?subject=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Finstances%2FProductFeature1076&predicate=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Fvocabulary%2FproductPropertyNumeric1
+     21 http://172.17.0.2:3000/scale1000?subject=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Finstances%2FProductFeature1136&predicate=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Fvocabulary%2FproductPropertyNumeric1
+     21 http://172.17.0.2:3000/scale1000?subject=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Finstances%2FProductFeature1168&predicate=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Fvocabulary%2FproductPropertyNumeric1
+     21 http://172.17.0.2:3000/scale1000?subject=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Finstances%2FProductFeature1350&predicate=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Fvocabulary%2FproductPropertyNumeric1
+     21 http://172.17.0.2:3000/scale1000?subject=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Finstances%2FProductFeature2427&predicate=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Fvocabulary%2FproductPropertyNumeric1
+     23 http://172.17.0.2:3000/scale1000?subject=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Finstances%2FProductFeature1085&predicate=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Fvocabulary%2FproductPropertyNumeric1
+     24 http://172.17.0.2:3000/scale1000?subject=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Finstances%2FProductFeature2097&predicate=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Fvocabulary%2FproductPropertyNumeric1
+    101 http://172.17.0.2:3000/scale1000
+    138 http://172.17.0.2:3000/scale1000?predicate=http%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label

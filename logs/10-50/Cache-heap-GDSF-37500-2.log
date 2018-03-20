@@ -1,0 +1,11 @@
+7596 : Number of hit
+     18 http://172.17.0.2:3000/scale1000?subject=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Finstances%2FProductFeature1299&predicate=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Fvocabulary%2FproductPropertyNumeric1
+     19 http://172.17.0.2:3000/scale1000?subject=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Finstances%2FProductFeature1185&predicate=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Fvocabulary%2FproductPropertyNumeric1
+     19 http://172.17.0.2:3000/scale1000?subject=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Finstances%2FProductFeature1199&predicate=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Fvocabulary%2FproductPropertyNumeric1
+     19 http://172.17.0.2:3000/scale1000?subject=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Finstances%2FProductFeature1207&predicate=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Fvocabulary%2FproductPropertyNumeric1
+     19 http://172.17.0.2:3000/scale1000?subject=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Finstances%2FProductFeature1347&predicate=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Fvocabulary%2FproductPropertyNumeric1
+     20 http://172.17.0.2:3000/scale1000?subject=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Finstances%2FProductFeature119&predicate=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Fvocabulary%2FproductPropertyNumeric1
+     22 http://172.17.0.2:3000/scale1000?predicate=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Fvocabulary%2FproductPropertyNumeric1
+     22 http://172.17.0.2:3000/scale1000?subject=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Finstances%2FProductFeature1184&predicate=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Fvocabulary%2FproductPropertyNumeric1
+     98 http://172.17.0.2:3000/scale1000
+    132 http://172.17.0.2:3000/scale1000?predicate=http%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label
