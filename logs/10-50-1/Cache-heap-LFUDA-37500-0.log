@@ -1,0 +1,11 @@
+18338 : Number of hit
+     52 http://172.17.0.2:3000/scale1000?subject=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Finstances%2FdataFromRatingSite1%2FReview7834&predicate=http%3A%2F%2Fpurl.org%2Fstuff%2Frev%23reviewer
+     52 http://172.17.0.2:3000/scale1000?subject=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Finstances%2FdataFromRatingSite1%2FReview7992&predicate=http%3A%2F%2Fpurl.org%2Fstuff%2Frev%23reviewer
+     53 http://172.17.0.2:3000/scale1000?subject=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Finstances%2FdataFromRatingSite1%2FReview8947&predicate=http%3A%2F%2Fpurl.org%2Fstuff%2Frev%23reviewer
+     53 http://172.17.0.2:3000/scale1000?subject=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Finstances%2FdataFromRatingSite1%2FReview9672&predicate=http%3A%2F%2Fpurl.org%2Fstuff%2Frev%23reviewer
+     68 http://172.17.0.2:3000/scale1000?subject=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Finstances%2FdataFromProducer13%2FProducer13&predicate=http%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label
+     69 http://172.17.0.2:3000/scale1000?subject=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Finstances%2FdataFromProducer6%2FProducer6&predicate=http%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label
+     74 http://172.17.0.2:3000/scale1000?predicate=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fbizer%2Fbsbm%2Fv01%2Fvocabulary%2Fcountry&object=http%3A%2F%2Fdownlode.org%2Frdf%2Fiso-3166%2Fcountries%23US
+     89 http://172.17.0.2:3000/scale1000
+    407 http://172.17.0.2:3000/scale1000?predicate=http%3A%2F%2Fxmlns.com%2Ffoaf%2F0.1%2Fname
+    998 http://172.17.0.2:3000/scale1000?predicate=http%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label
