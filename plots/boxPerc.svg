@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="141.42mm" height="100mm" viewBox="0 0 141.42 100"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g class="plotroot yscalable" id="img-5b53f51b-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-5b53f51b-2">
+    <text x="78.03" y="88.39" text-anchor="middle" dy="0.6em">CacheSize</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-5b53f51b-3">
+    <text x="31.31" y="81.72" text-anchor="middle" dy="0.6em">[1.0]</text>
+    <text x="54.67" y="81.72" text-anchor="middle" dy="0.6em">[50.0]</text>
+    <text x="78.03" y="81.72" text-anchor="middle" dy="0.6em">[100.0]</text>
+    <text x="101.38" y="81.72" text-anchor="middle" dy="0.6em">[500.0]</text>
+    <text x="124.74" y="81.72" text-anchor="middle" dy="0.6em">[1000.0]</text>
+  </g>
+<g clip-path="url(#img-5b53f51b-4)">
+  <g id="img-5b53f51b-5">
+    <g pointer-events="visible" opacity="1" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-5b53f51b-6">
+      <rect x="19.63" y="5" width="116.79" height="75.72"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-5b53f51b-7">
+      <path fill="none" d="M19.63,78.71 L 136.42 78.71"/>
+      <path fill="none" d="M19.63,60.79 L 136.42 60.79"/>
+      <path fill="none" d="M19.63,42.86 L 136.42 42.86"/>
+      <path fill="none" d="M19.63,24.93 L 136.42 24.93"/>
+      <path fill="none" d="M19.63,7 L 136.42 7"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-5b53f51b-8">
+      <path fill="none" d="M42.99,5 L 42.99 80.72"/>
+      <path fill="none" d="M66.35,5 L 66.35 80.72"/>
+      <path fill="none" d="M89.71,5 L 89.71 80.72"/>
+      <path fill="none" d="M113.06,5 L 113.06 80.72"/>
+    </g>
+    <g class="plotpanel" id="img-5b53f51b-9">
+      <g class="geometry" stroke-width="0.3" id="img-5b53f51b-10">
+        <rect x="20.13" y="20.31" width="22.36" height="41.22" fill="#00BFFF" stroke="#00BFFF"/>
+        <rect x="43.49" y="48.32" width="22.36" height="23.48" fill="#00BFFF" stroke="#00BFFF"/>
+        <rect x="66.85" y="47.7" width="22.36" height="22.83" fill="#00BFFF" stroke="#00BFFF"/>
+        <rect x="90.21" y="47.7" width="22.36" height="23.1" fill="#00BFFF" stroke="#00BFFF"/>
+        <rect x="113.56" y="47.7" width="22.36" height="23.24" fill="#00BFFF" stroke="#00BFFF"/>
+        <path fill="none" d="M23.86,12.52 L 38.76 12.52" stroke="#00BFFF"/>
+        <path fill="none" d="M47.22,14.97 L 62.12 14.97" stroke="#00BFFF"/>
+        <path fill="none" d="M70.57,14.97 L 85.48 14.97" stroke="#00BFFF"/>
+        <path fill="none" d="M93.93,14.97 L 108.84 14.97" stroke="#00BFFF"/>
+        <path fill="none" d="M117.29,14.97 L 132.2 14.97" stroke="#00BFFF"/>
+        <path fill="none" d="M23.86,71.82 L 38.76 71.82" stroke="#00BFFF"/>
+        <path fill="none" d="M47.22,77.14 L 62.12 77.14" stroke="#00BFFF"/>
+        <path fill="none" d="M70.57,77.14 L 85.48 77.14" stroke="#00BFFF"/>
+        <path fill="none" d="M93.93,77.14 L 108.84 77.14" stroke="#00BFFF"/>
+        <path fill="none" d="M117.29,77.14 L 132.2 77.14" stroke="#00BFFF"/>
+        <path fill="none" d="M31.31,20.31 L 31.31 12.52" stroke="#00BFFF"/>
+        <path fill="none" d="M54.67,48.32 L 54.67 14.97" stroke="#00BFFF"/>
+        <path fill="none" d="M78.03,47.7 L 78.03 14.97" stroke="#00BFFF"/>
+        <path fill="none" d="M101.38,47.7 L 101.38 14.97" stroke="#00BFFF"/>
+        <path fill="none" d="M124.74,47.7 L 124.74 14.97" stroke="#00BFFF"/>
+        <path fill="none" d="M31.31,61.53 L 31.31 71.82" stroke="#00BFFF"/>
+        <path fill="none" d="M54.67,71.79 L 54.67 77.14" stroke="#00BFFF"/>
+        <path fill="none" d="M78.03,70.53 L 78.03 77.14" stroke="#00BFFF"/>
+        <path fill="none" d="M101.38,70.8 L 101.38 77.14" stroke="#00BFFF"/>
+        <path fill="none" d="M124.74,70.94 L 124.74 77.14" stroke="#00BFFF"/>
+        <g stroke-width="0.6" id="img-5b53f51b-11">
+          <path fill="none" d="M23.86,54.81 L 38.76 54.81" stroke="#B5FFFF"/>
+          <path fill="none" d="M47.22,54.81 L 62.12 54.81" stroke="#B5FFFF"/>
+          <path fill="none" d="M70.57,54.81 L 85.48 54.81" stroke="#B5FFFF"/>
+          <path fill="none" d="M93.93,54.81 L 108.84 54.81" stroke="#B5FFFF"/>
+          <path fill="none" d="M117.29,54.81 L 132.2 54.81" stroke="#B5FFFF"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-5b53f51b-12">
+    <text x="18.63" y="78.71" text-anchor="end" dy="0.35em">0</text>
+    <text x="18.63" y="60.79" text-anchor="end" dy="0.35em">25</text>
+    <text x="18.63" y="42.86" text-anchor="end" dy="0.35em">50</text>
+    <text x="18.63" y="24.93" text-anchor="end" dy="0.35em">75</text>
+    <text x="18.63" y="7" text-anchor="end" dy="0.35em">100</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-5b53f51b-13">
+    <text x="8.81" y="40.86" text-anchor="middle" dy="0.35em" transform="rotate(-90, 8.81, 42.86)">PercGen</text>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-5b53f51b-4">
+  <path d="M19.63,5 L 136.42 5 136.42 80.72 19.63 80.72" />
+</clipPath>
+</defs>
+</svg>
