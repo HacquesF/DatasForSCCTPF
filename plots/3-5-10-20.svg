@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="141.42mm" height="100mm" viewBox="0 0 141.42 100"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g class="plotroot yscalable" id="img-faa9dc9c-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-faa9dc9c-2">
+    <text x="106.85" y="88.39" text-anchor="middle" dy="0.6em">Size (%)</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-faa9dc9c-3">
+    <text x="93.72" y="81.72" text-anchor="middle" dy="0.6em">5.0</text>
+    <text x="102.47" y="81.72" text-anchor="middle" dy="0.6em">10.0</text>
+    <text x="111.22" y="81.72" text-anchor="middle" dy="0.6em">15.0</text>
+    <text x="119.97" y="81.72" text-anchor="middle" dy="0.6em">20.0</text>
+  </g>
+  <g class="guide colorkey" id="img-faa9dc9c-4">
+    <g fill="#4C404B" font-size="2.82" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" id="img-faa9dc9c-5">
+      <text x="128.16" y="68.85" dy="0.35em" id="img-faa9dc9c-6" class="color_GDSF">GDSF</text>
+      <text x="128.16" y="72.48" dy="0.35em" id="img-faa9dc9c-7" class="color_LFUDA">LFUDA</text>
+      <text x="128.16" y="76.1" dy="0.35em" id="img-faa9dc9c-8" class="color_lru">lru</text>
+    </g>
+    <g stroke="#000000" stroke-opacity="0.000" id="img-faa9dc9c-9">
+      <rect x="125.35" y="67.94" width="1.81" height="1.81" id="img-faa9dc9c-10" class="color_GDSF" fill="#00BFFF"/>
+      <rect x="125.35" y="71.57" width="1.81" height="1.81" id="img-faa9dc9c-11" class="color_LFUDA" fill="#D4CA3A"/>
+      <rect x="125.35" y="75.2" width="1.81" height="1.81" id="img-faa9dc9c-12" class="color_lru" fill="#FF6DAE"/>
+    </g>
+    <g fill="#362A35" font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" stroke="#000000" stroke-opacity="0.000" id="img-faa9dc9c-13">
+      <text x="125.35" y="65.03" id="img-faa9dc9c-14">Policy</text>
+    </g>
+  </g>
+<g clip-path="url(#img-faa9dc9c-15)">
+  <g id="img-faa9dc9c-16">
+    <g pointer-events="visible" opacity="1" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-faa9dc9c-17">
+      <rect x="89.34" y="60.61" width="35.01" height="20.1" id="img-faa9dc9c-18"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-faa9dc9c-19">
+      <path fill="none" d="M89.34,78.72 L 124.35 78.72" id="img-faa9dc9c-20"/>
+      <path fill="none" d="M89.34,75.49 L 124.35 75.49" id="img-faa9dc9c-21"/>
+      <path fill="none" d="M89.34,72.27 L 124.35 72.27" id="img-faa9dc9c-22"/>
+      <path fill="none" d="M89.34,69.05 L 124.35 69.05" id="img-faa9dc9c-23"/>
+      <path fill="none" d="M89.34,65.83 L 124.35 65.83" id="img-faa9dc9c-24"/>
+      <path fill="none" d="M89.34,62.61 L 124.35 62.61" id="img-faa9dc9c-25"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-faa9dc9c-26">
+      <path fill="none" d="M98.09,60.61 L 98.09 80.72" id="img-faa9dc9c-27"/>
+      <path fill="none" d="M106.85,60.61 L 106.85 80.72" id="img-faa9dc9c-28"/>
+      <path fill="none" d="M115.6,60.61 L 115.6 80.72" id="img-faa9dc9c-29"/>
+    </g>
+    <g class="plotpanel" id="img-faa9dc9c-30">
+      <g shape-rendering="crispEdges" stroke-width="0.3" id="img-faa9dc9c-31">
+        <g stroke="#000000" stroke-opacity="0.000" class="geometry" id="img-faa9dc9c-32">
+          <rect x="89.32" y="77.26" width="2.93" height="1.46" id="img-faa9dc9c-33" fill="#FF6DAE"/>
+          <rect x="98.07" y="75.49" width="2.93" height="3.23" id="img-faa9dc9c-34" fill="#FF6DAE"/>
+          <rect x="106.82" y="72.14" width="2.93" height="6.58" id="img-faa9dc9c-35" fill="#FF6DAE"/>
+          <rect x="115.57" y="65.7" width="2.93" height="13.01" id="img-faa9dc9c-36" fill="#FF6DAE"/>
+          <rect x="92.23" y="77.56" width="2.93" height="1.16" id="img-faa9dc9c-37" fill="#D4CA3A"/>
+          <rect x="100.99" y="76.08" width="2.93" height="2.64" id="img-faa9dc9c-38" fill="#D4CA3A"/>
+          <rect x="109.74" y="72.37" width="2.93" height="6.35" id="img-faa9dc9c-39" fill="#D4CA3A"/>
+          <rect x="118.49" y="66.18" width="2.93" height="12.53" id="img-faa9dc9c-40" fill="#D4CA3A"/>
+          <rect x="95.15" y="77.51" width="2.93" height="1.2" id="img-faa9dc9c-41" fill="#00BFFF"/>
+          <rect x="103.9" y="76.03" width="2.93" height="2.69" id="img-faa9dc9c-42" fill="#00BFFF"/>
+          <rect x="112.65" y="72.48" width="2.93" height="6.24" id="img-faa9dc9c-43" fill="#00BFFF"/>
+          <rect x="121.41" y="65.98" width="2.93" height="12.73" id="img-faa9dc9c-44" fill="#00BFFF"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-faa9dc9c-45">
+    <text x="88.34" y="78.72" text-anchor="end" dy="0.35em" id="img-faa9dc9c-46">0.0</text>
+    <text x="88.34" y="75.49" text-anchor="end" dy="0.35em" id="img-faa9dc9c-47">0.2</text>
+    <text x="88.34" y="72.27" text-anchor="end" dy="0.35em" id="img-faa9dc9c-48">0.4</text>
+    <text x="88.34" y="69.05" text-anchor="end" dy="0.35em" id="img-faa9dc9c-49">0.6</text>
+    <text x="88.34" y="65.83" text-anchor="end" dy="0.35em" id="img-faa9dc9c-50">0.8</text>
+    <text x="88.34" y="62.61" text-anchor="end" dy="0.35em" id="img-faa9dc9c-51">1.0</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-faa9dc9c-52">
+    <text x="79.52" y="68.66" text-anchor="middle" dy="0.35em" transform="rotate(-90, 79.52, 70.66)" id="img-faa9dc9c-53">Hit ratio</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-faa9dc9c-54">
+    <text x="106.85" y="55" text-anchor="middle" dy="0.6em" id="img-faa9dc9c-55">20 clients</text>
+  </g>
+</g>
+<g class="plotroot yscalable" id="img-faa9dc9c-56">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-faa9dc9c-57">
+    <text x="36.13" y="88.39" text-anchor="middle" dy="0.6em" id="img-faa9dc9c-58">Size (%)</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-faa9dc9c-59">
+    <text x="23.01" y="81.72" text-anchor="middle" dy="0.6em" id="img-faa9dc9c-60">5.0</text>
+    <text x="31.76" y="81.72" text-anchor="middle" dy="0.6em" id="img-faa9dc9c-61">10.0</text>
+    <text x="40.51" y="81.72" text-anchor="middle" dy="0.6em" id="img-faa9dc9c-62">15.0</text>
+    <text x="49.26" y="81.72" text-anchor="middle" dy="0.6em" id="img-faa9dc9c-63">20.0</text>
+  </g>
+  <g class="guide colorkey" id="img-faa9dc9c-64">
+    <g fill="#4C404B" font-size="2.82" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" id="img-faa9dc9c-65">
+      <text x="57.45" y="68.85" dy="0.35em" id="img-faa9dc9c-66" class="color_GDSF">GDSF</text>
+      <text x="57.45" y="72.48" dy="0.35em" id="img-faa9dc9c-67" class="color_LFUDA">LFUDA</text>
+      <text x="57.45" y="76.1" dy="0.35em" id="img-faa9dc9c-68" class="color_lru">lru</text>
+    </g>
+    <g stroke="#000000" stroke-opacity="0.000" id="img-faa9dc9c-69">
+      <rect x="54.64" y="67.94" width="1.81" height="1.81" id="img-faa9dc9c-70" class="color_GDSF" fill="#00BFFF"/>
+      <rect x="54.64" y="71.57" width="1.81" height="1.81" id="img-faa9dc9c-71" class="color_LFUDA" fill="#D4CA3A"/>
+      <rect x="54.64" y="75.2" width="1.81" height="1.81" id="img-faa9dc9c-72" class="color_lru" fill="#FF6DAE"/>
+    </g>
+    <g fill="#362A35" font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" stroke="#000000" stroke-opacity="0.000" id="img-faa9dc9c-73">
+      <text x="54.64" y="65.03" id="img-faa9dc9c-74">Policy</text>
+    </g>
+  </g>
+<g clip-path="url(#img-faa9dc9c-75)">
+  <g id="img-faa9dc9c-76">
+    <g pointer-events="visible" opacity="1" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-faa9dc9c-77">
+      <rect x="18.63" y="60.61" width="35.01" height="20.1" id="img-faa9dc9c-78"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-faa9dc9c-79">
+      <path fill="none" d="M18.63,78.72 L 53.64 78.72" id="img-faa9dc9c-80"/>
+      <path fill="none" d="M18.63,75.49 L 53.64 75.49" id="img-faa9dc9c-81"/>
+      <path fill="none" d="M18.63,72.27 L 53.64 72.27" id="img-faa9dc9c-82"/>
+      <path fill="none" d="M18.63,69.05 L 53.64 69.05" id="img-faa9dc9c-83"/>
+      <path fill="none" d="M18.63,65.83 L 53.64 65.83" id="img-faa9dc9c-84"/>
+      <path fill="none" d="M18.63,62.61 L 53.64 62.61" id="img-faa9dc9c-85"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-faa9dc9c-86">
+      <path fill="none" d="M27.38,60.61 L 27.38 80.72" id="img-faa9dc9c-87"/>
+      <path fill="none" d="M36.13,60.61 L 36.13 80.72" id="img-faa9dc9c-88"/>
+      <path fill="none" d="M44.89,60.61 L 44.89 80.72" id="img-faa9dc9c-89"/>
+    </g>
+    <g class="plotpanel" id="img-faa9dc9c-90">
+      <g shape-rendering="crispEdges" stroke-width="0.3" id="img-faa9dc9c-91">
+        <g stroke="#000000" stroke-opacity="0.000" class="geometry" id="img-faa9dc9c-92">
+          <rect x="18.61" y="77.61" width="2.93" height="1.1" id="img-faa9dc9c-93" fill="#FF6DAE"/>
+          <rect x="27.36" y="73.85" width="2.93" height="4.86" id="img-faa9dc9c-94" fill="#FF6DAE"/>
+          <rect x="36.11" y="68.18" width="2.93" height="10.54" id="img-faa9dc9c-95" fill="#FF6DAE"/>
+          <rect x="44.86" y="63.43" width="2.93" height="15.28" id="img-faa9dc9c-96" fill="#FF6DAE"/>
+          <rect x="21.52" y="77.66" width="2.93" height="1.06" id="img-faa9dc9c-97" fill="#D4CA3A"/>
+          <rect x="30.28" y="73.99" width="2.93" height="4.73" id="img-faa9dc9c-98" fill="#D4CA3A"/>
+          <rect x="39.03" y="68.73" width="2.93" height="9.99" id="img-faa9dc9c-99" fill="#D4CA3A"/>
+          <rect x="47.78" y="63.28" width="2.93" height="15.44" id="img-faa9dc9c-100" fill="#D4CA3A"/>
+          <rect x="24.44" y="77.67" width="2.93" height="1.04" id="img-faa9dc9c-101" fill="#00BFFF"/>
+          <rect x="33.19" y="74.08" width="2.93" height="4.64" id="img-faa9dc9c-102" fill="#00BFFF"/>
+          <rect x="41.94" y="68.63" width="2.93" height="10.08" id="img-faa9dc9c-103" fill="#00BFFF"/>
+          <rect x="50.7" y="65.11" width="2.93" height="13.61" id="img-faa9dc9c-104" fill="#00BFFF"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-faa9dc9c-105">
+    <text x="17.63" y="78.72" text-anchor="end" dy="0.35em" id="img-faa9dc9c-106">0.0</text>
+    <text x="17.63" y="75.49" text-anchor="end" dy="0.35em" id="img-faa9dc9c-107">0.5</text>
+    <text x="17.63" y="72.27" text-anchor="end" dy="0.35em" id="img-faa9dc9c-108">1.0</text>
+    <text x="17.63" y="69.05" text-anchor="end" dy="0.35em" id="img-faa9dc9c-109">1.5</text>
+    <text x="17.63" y="65.83" text-anchor="end" dy="0.35em" id="img-faa9dc9c-110">2.0</text>
+    <text x="17.63" y="62.61" text-anchor="end" dy="0.35em" id="img-faa9dc9c-111">2.5</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-faa9dc9c-112">
+    <text x="8.81" y="68.66" text-anchor="middle" dy="0.35em" transform="rotate(-90, 8.81, 70.66)" id="img-faa9dc9c-113">Hit ratio</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-faa9dc9c-114">
+    <text x="36.13" y="55" text-anchor="middle" dy="0.6em" id="img-faa9dc9c-115">10 clients</text>
+  </g>
+</g>
+<g class="plotroot yscalable" id="img-faa9dc9c-116">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-faa9dc9c-117">
+    <text x="105.67" y="38.39" text-anchor="middle" dy="0.6em" id="img-faa9dc9c-118">Size (%)</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-faa9dc9c-119">
+    <text x="91.66" y="31.72" text-anchor="middle" dy="0.6em" id="img-faa9dc9c-120">5.0</text>
+    <text x="101" y="31.72" text-anchor="middle" dy="0.6em" id="img-faa9dc9c-121">10.0</text>
+    <text x="110.34" y="31.72" text-anchor="middle" dy="0.6em" id="img-faa9dc9c-122">15.0</text>
+    <text x="119.68" y="31.72" text-anchor="middle" dy="0.6em" id="img-faa9dc9c-123">20.0</text>
+  </g>
+  <g class="guide colorkey" id="img-faa9dc9c-124">
+    <g fill="#4C404B" font-size="2.82" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" id="img-faa9dc9c-125">
+      <text x="128.16" y="18.85" dy="0.35em" id="img-faa9dc9c-126" class="color_GDSF">GDSF</text>
+      <text x="128.16" y="22.48" dy="0.35em" id="img-faa9dc9c-127" class="color_LFUDA">LFUDA</text>
+      <text x="128.16" y="26.1" dy="0.35em" id="img-faa9dc9c-128" class="color_lru">lru</text>
+    </g>
+    <g stroke="#000000" stroke-opacity="0.000" id="img-faa9dc9c-129">
+      <rect x="125.35" y="17.94" width="1.81" height="1.81" id="img-faa9dc9c-130" class="color_GDSF" fill="#00BFFF"/>
+      <rect x="125.35" y="21.57" width="1.81" height="1.81" id="img-faa9dc9c-131" class="color_LFUDA" fill="#D4CA3A"/>
+      <rect x="125.35" y="25.2" width="1.81" height="1.81" id="img-faa9dc9c-132" class="color_lru" fill="#FF6DAE"/>
+    </g>
+    <g fill="#362A35" font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" stroke="#000000" stroke-opacity="0.000" id="img-faa9dc9c-133">
+      <text x="125.35" y="15.03" id="img-faa9dc9c-134">Policy</text>
+    </g>
+  </g>
+<g clip-path="url(#img-faa9dc9c-135)">
+  <g id="img-faa9dc9c-136">
+    <g pointer-events="visible" opacity="1" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-faa9dc9c-137">
+      <rect x="87" y="10.61" width="37.35" height="20.1" id="img-faa9dc9c-138"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-faa9dc9c-139">
+      <path fill="none" d="M87,28.72 L 124.35 28.72" id="img-faa9dc9c-140"/>
+      <path fill="none" d="M87,25.49 L 124.35 25.49" id="img-faa9dc9c-141"/>
+      <path fill="none" d="M87,22.27 L 124.35 22.27" id="img-faa9dc9c-142"/>
+      <path fill="none" d="M87,19.05 L 124.35 19.05" id="img-faa9dc9c-143"/>
+      <path fill="none" d="M87,15.83 L 124.35 15.83" id="img-faa9dc9c-144"/>
+      <path fill="none" d="M87,12.61 L 124.35 12.61" id="img-faa9dc9c-145"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-faa9dc9c-146">
+      <path fill="none" d="M96.33,10.61 L 96.33 30.72" id="img-faa9dc9c-147"/>
+      <path fill="none" d="M105.67,10.61 L 105.67 30.72" id="img-faa9dc9c-148"/>
+      <path fill="none" d="M115.01,10.61 L 115.01 30.72" id="img-faa9dc9c-149"/>
+    </g>
+    <g class="plotpanel" id="img-faa9dc9c-150">
+      <g shape-rendering="crispEdges" stroke-width="0.3" id="img-faa9dc9c-151">
+        <g stroke="#000000" stroke-opacity="0.000" class="geometry" id="img-faa9dc9c-152">
+          <rect x="86.97" y="26.76" width="3.13" height="1.96" id="img-faa9dc9c-153" fill="#FF6DAE"/>
+          <rect x="96.31" y="21.71" width="3.13" height="7" id="img-faa9dc9c-154" fill="#FF6DAE"/>
+          <rect x="105.65" y="17.28" width="3.13" height="11.43" id="img-faa9dc9c-155" fill="#FF6DAE"/>
+          <rect x="114.98" y="15.38" width="3.13" height="13.34" id="img-faa9dc9c-156" fill="#FF6DAE"/>
+          <rect x="90.08" y="26.78" width="3.13" height="1.94" id="img-faa9dc9c-157" fill="#D4CA3A"/>
+          <rect x="99.42" y="21.76" width="3.13" height="6.95" id="img-faa9dc9c-158" fill="#D4CA3A"/>
+          <rect x="108.76" y="17.07" width="3.13" height="11.65" id="img-faa9dc9c-159" fill="#D4CA3A"/>
+          <rect x="118.1" y="15.08" width="3.13" height="13.64" id="img-faa9dc9c-160" fill="#D4CA3A"/>
+          <rect x="93.2" y="26.72" width="3.13" height="1.99" id="img-faa9dc9c-161" fill="#00BFFF"/>
+          <rect x="102.53" y="21.54" width="3.13" height="7.17" id="img-faa9dc9c-162" fill="#00BFFF"/>
+          <rect x="111.87" y="17.76" width="3.13" height="10.96" id="img-faa9dc9c-163" fill="#00BFFF"/>
+          <rect x="121.21" y="14.89" width="3.13" height="13.82" id="img-faa9dc9c-164" fill="#00BFFF"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-faa9dc9c-165">
+    <text x="86" y="28.72" text-anchor="end" dy="0.35em" id="img-faa9dc9c-166">0</text>
+    <text x="86" y="25.49" text-anchor="end" dy="0.35em" id="img-faa9dc9c-167">1</text>
+    <text x="86" y="22.27" text-anchor="end" dy="0.35em" id="img-faa9dc9c-168">2</text>
+    <text x="86" y="19.05" text-anchor="end" dy="0.35em" id="img-faa9dc9c-169">3</text>
+    <text x="86" y="15.83" text-anchor="end" dy="0.35em" id="img-faa9dc9c-170">4</text>
+    <text x="86" y="12.61" text-anchor="end" dy="0.35em" id="img-faa9dc9c-171">5</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-faa9dc9c-172">
+    <text x="79.52" y="18.66" text-anchor="middle" dy="0.35em" transform="rotate(-90, 79.52, 20.66)" id="img-faa9dc9c-173">Hit ratio</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-faa9dc9c-174">
+    <text x="105.67" y="5" text-anchor="middle" dy="0.6em" id="img-faa9dc9c-175">5 clients</text>
+  </g>
+</g>
+<g class="plotroot yscalable" id="img-faa9dc9c-176">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-faa9dc9c-177">
+    <text x="35.8" y="38.39" text-anchor="middle" dy="0.6em" id="img-faa9dc9c-178">Size (%)</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-faa9dc9c-179">
+    <text x="22.42" y="31.72" text-anchor="middle" dy="0.6em" id="img-faa9dc9c-180">5.0</text>
+    <text x="31.34" y="31.72" text-anchor="middle" dy="0.6em" id="img-faa9dc9c-181">10.0</text>
+    <text x="40.26" y="31.72" text-anchor="middle" dy="0.6em" id="img-faa9dc9c-182">15.0</text>
+    <text x="49.18" y="31.72" text-anchor="middle" dy="0.6em" id="img-faa9dc9c-183">20.0</text>
+  </g>
+  <g class="guide colorkey" id="img-faa9dc9c-184">
+    <g fill="#4C404B" font-size="2.82" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" id="img-faa9dc9c-185">
+      <text x="57.45" y="18.85" dy="0.35em" id="img-faa9dc9c-186" class="color_GDSF">GDSF</text>
+      <text x="57.45" y="22.48" dy="0.35em" id="img-faa9dc9c-187" class="color_LFUDA">LFUDA</text>
+      <text x="57.45" y="26.1" dy="0.35em" id="img-faa9dc9c-188" class="color_lru">lru</text>
+    </g>
+    <g stroke="#000000" stroke-opacity="0.000" id="img-faa9dc9c-189">
+      <rect x="54.64" y="17.94" width="1.81" height="1.81" id="img-faa9dc9c-190" class="color_GDSF" fill="#00BFFF"/>
+      <rect x="54.64" y="21.57" width="1.81" height="1.81" id="img-faa9dc9c-191" class="color_LFUDA" fill="#D4CA3A"/>
+      <rect x="54.64" y="25.2" width="1.81" height="1.81" id="img-faa9dc9c-192" class="color_lru" fill="#FF6DAE"/>
+    </g>
+    <g fill="#362A35" font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" stroke="#000000" stroke-opacity="0.000" id="img-faa9dc9c-193">
+      <text x="54.64" y="15.03" id="img-faa9dc9c-194">Policy</text>
+    </g>
+  </g>
+<g clip-path="url(#img-faa9dc9c-195)">
+  <g id="img-faa9dc9c-196">
+    <g pointer-events="visible" opacity="1" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-faa9dc9c-197">
+      <rect x="17.96" y="10.61" width="35.68" height="20.1" id="img-faa9dc9c-198"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-faa9dc9c-199">
+      <path fill="none" d="M17.96,28.72 L 53.64 28.72" id="img-faa9dc9c-200"/>
+      <path fill="none" d="M17.96,23.35 L 53.64 23.35" id="img-faa9dc9c-201"/>
+      <path fill="none" d="M17.96,17.98 L 53.64 17.98" id="img-faa9dc9c-202"/>
+      <path fill="none" d="M17.96,12.61 L 53.64 12.61" id="img-faa9dc9c-203"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-faa9dc9c-204">
+      <path fill="none" d="M26.88,10.61 L 26.88 30.72" id="img-faa9dc9c-205"/>
+      <path fill="none" d="M35.8,10.61 L 35.8 30.72" id="img-faa9dc9c-206"/>
+      <path fill="none" d="M44.72,10.61 L 44.72 30.72" id="img-faa9dc9c-207"/>
+    </g>
+    <g class="plotpanel" id="img-faa9dc9c-208">
+      <g shape-rendering="crispEdges" stroke-width="0.3" id="img-faa9dc9c-209">
+        <g stroke="#000000" stroke-opacity="0.000" class="geometry" id="img-faa9dc9c-210">
+          <rect x="17.93" y="26.8" width="2.99" height="1.91" id="img-faa9dc9c-211" fill="#FF6DAE"/>
+          <rect x="26.85" y="22.66" width="2.99" height="6.06" id="img-faa9dc9c-212" fill="#FF6DAE"/>
+          <rect x="35.77" y="17.47" width="2.99" height="11.25" id="img-faa9dc9c-213" fill="#FF6DAE"/>
+          <rect x="44.69" y="16.06" width="2.99" height="12.66" id="img-faa9dc9c-214" fill="#FF6DAE"/>
+          <rect x="20.91" y="26.76" width="2.99" height="1.96" id="img-faa9dc9c-215" fill="#D4CA3A"/>
+          <rect x="29.83" y="22.26" width="2.99" height="6.45" id="img-faa9dc9c-216" fill="#D4CA3A"/>
+          <rect x="38.75" y="17.44" width="2.99" height="11.27" id="img-faa9dc9c-217" fill="#D4CA3A"/>
+          <rect x="47.67" y="15.9" width="2.99" height="12.82" id="img-faa9dc9c-218" fill="#D4CA3A"/>
+          <rect x="23.88" y="26.66" width="2.99" height="2.05" id="img-faa9dc9c-219" fill="#00BFFF"/>
+          <rect x="32.8" y="22.26" width="2.99" height="6.46" id="img-faa9dc9c-220" fill="#00BFFF"/>
+          <rect x="41.72" y="17.61" width="2.99" height="11.11" id="img-faa9dc9c-221" fill="#00BFFF"/>
+          <rect x="50.64" y="15.41" width="2.99" height="13.3" id="img-faa9dc9c-222" fill="#00BFFF"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-faa9dc9c-223">
+    <text x="16.96" y="28.72" text-anchor="end" dy="0.35em" id="img-faa9dc9c-224">0</text>
+    <text x="16.96" y="23.35" text-anchor="end" dy="0.35em" id="img-faa9dc9c-225">5</text>
+    <text x="16.96" y="17.98" text-anchor="end" dy="0.35em" id="img-faa9dc9c-226">10</text>
+    <text x="16.96" y="12.61" text-anchor="end" dy="0.35em" id="img-faa9dc9c-227">15</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-faa9dc9c-228">
+    <text x="8.81" y="18.66" text-anchor="middle" dy="0.35em" transform="rotate(-90, 8.81, 20.66)" id="img-faa9dc9c-229">Hit ratio</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-faa9dc9c-230">
+    <text x="35.8" y="5" text-anchor="middle" dy="0.6em" id="img-faa9dc9c-231">3 clients</text>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-faa9dc9c-15">
+  <path d="M89.34,60.61 L 124.35 60.61 124.35 80.72 89.34 80.72" />
+</clipPath>
+  <clipPath id="img-faa9dc9c-75">
+  <path d="M18.63,60.61 L 53.64 60.61 53.64 80.72 18.63 80.72" />
+</clipPath>
+  <clipPath id="img-faa9dc9c-135">
+  <path d="M87,10.61 L 124.35 10.61 124.35 30.72 87 30.72" />
+</clipPath>
+  <clipPath id="img-faa9dc9c-195">
+  <path d="M17.96,10.61 L 53.64 10.61 53.64 30.72 17.96 30.72" />
+</clipPath>
+</defs>
+</svg>
